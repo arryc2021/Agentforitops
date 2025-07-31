@@ -1,2 +1,2 @@
-# Agentforitops
-A simple agenr for ITOPS using Llama3
+# Agent for itops
+A simple agent for ITOPS using Llama3
